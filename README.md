@@ -7,3 +7,5 @@
 3. Distinctions
 
 ## 1. Discipline
+
+La physique c'est mieux que la chimie. Mais la chimie c'est petit `Paul Dirac`
